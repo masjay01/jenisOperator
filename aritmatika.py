@@ -1,8 +1,5 @@
 # aritmatika
 
-from traceback import print_tb
-
-
 a = 10
 b = 3
 
